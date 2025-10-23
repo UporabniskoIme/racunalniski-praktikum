@@ -9,9 +9,9 @@
 * *Kopiraj* označeno v odložišče: Ctrl+C (**C**opy)
 * *Izreži* označeno v odložišče: Ctrl+X
 * *Prilepi* vsebino odložišča: Ctrl+V
-* Zapiranje programa: Alt + F4
-* Paleta ukazov v VS Code: Ctrl + Shift + P
-* Dodaj kurzor zgoraj/spodaj: Ctrl + Alt + ↑↓
+* *Zapiranje* programa: Alt + F4
+* *Paleta ukazov* v VS Code: Ctrl + Shift + P
+* *Dodaj kurzor* zgoraj/spodaj: Ctrl + Alt + ↑↓
 
 <!-- 2. nivojski razdelek -->
 ## Izvorna koda

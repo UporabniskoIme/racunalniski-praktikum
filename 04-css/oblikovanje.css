@@ -56,6 +56,11 @@ h2 {
     border-radius: 50%;
 }
 
+.slika p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
 /*  Odstranimo podčrtovanje povezav in outline (ta se včasih pokaže kot kvadratek okrog povezave)  */
 a { text-decoration: none; outline:none; }
 /*  Spremenimo barve povezav: neobiskanih, obiskanih, pod miško in aktivnih */
